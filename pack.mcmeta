@@ -1,0 +1,14 @@
+﻿{
+  "pack": {
+    "pack_format": 32,
+    "supported_formats": [15, 2147483647],
+    "description": [
+      {
+        "translate": "A A A %s",
+        "with": [
+          {"text": "秘境","color": "green"}
+        ]
+      }
+    ]
+  }
+}
